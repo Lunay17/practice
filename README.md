@@ -1,2 +1,2 @@
 # practice
-projects for practicing skills are stored here
+this repository stores projects with real data for skills development.
